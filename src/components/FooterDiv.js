@@ -6,8 +6,8 @@ const FooterDiv = styled.div`
   background-color: ${props => themedConfig(props.theme).primaryColor};
   width: 100%;
   text-align: center;
-  font-size: 1.2em;
-  line-height: 1.4em;
+  font-size: 0.8em;
+  line-height: 1.0em;
 `
 
 export default FooterDiv
